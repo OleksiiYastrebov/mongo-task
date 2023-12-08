@@ -1,3 +1,5 @@
+# Check DB_URL and DB_NAME in coderbyte assignment form
+
 # mongodb-homework
 
 ### Setup
